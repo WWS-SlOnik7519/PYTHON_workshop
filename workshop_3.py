@@ -8,8 +8,8 @@
 3
 -> 1'''
 
-import random
-from random import choice
+# import random
+# from random import choice
 #
 # N = int(input("Введите число: "))
 # count = 0
